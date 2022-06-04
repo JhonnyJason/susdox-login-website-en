@@ -1,0 +1,9 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/susdox-login-website-en-output.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/susdox-login-website-sources.git
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git
